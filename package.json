@@ -1,0 +1,11 @@
+{
+  "name": "interrogate",
+  "engines": {
+    "node": ">=0.4.2"
+  },
+  "dependencies": {
+    "asciimo": "",
+    "coffee-script": "",
+    "underscore": ""
+  }
+}
